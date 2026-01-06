@@ -3,6 +3,6 @@
     "name": "Tempo Keep Alive",
     "supabase_url": "https://neazllifzbgkewgsbnjp.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
-    "table_name": "tempo-keep-alive"
+    "table_name": "keep-alive"
   }
 ]
