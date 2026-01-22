@@ -4,5 +4,11 @@
     "supabase_url": "https://neazllifzbgkewgsbnjp.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
+  },
+    {
+    "name": "keep-alive2",
+    "supabase_url": "https://uontdfqpraqajfxhisjw.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_2",
+    "table_name": "keep-alive2"
   }
 ]
